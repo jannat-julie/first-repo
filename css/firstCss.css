@@ -1,0 +1,21 @@
+.first-class {
+    background-color: #071952;
+    border: 2px solid red;
+    color: #fff;
+    height: 200px;
+    padding-left: 20px;
+    margin-top: 50px;
+}
+
+.second-class {
+    background-color: burlywood;
+    padding-left: 25px;
+    margin-right: 50px;
+}
+
+.same-row {
+    display: flex;
+    gap: 10px;
+}
+
+/* This is a comment */
